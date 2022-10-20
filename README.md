@@ -1,5 +1,9 @@
 # :wave: Hey! I'm Gabriel Pagán Mateo 
-## Aspiring Software Developer :technologist:
+## Aspiring Software Developer 
+
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
 
 - 🌱 I’m a foundations student at Holberton School Puerto Rico 
 - :computer: Currently learning C programming language
