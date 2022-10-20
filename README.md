@@ -1,5 +1,5 @@
 # Hey! I'm Gabriel Pagán Mateo <div id="badges"> <a href="https://www.linkedin.com/in/gabriel-pagan-232570254/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-## Aspiring software developer
+## About me:
 
 - 🌱 I’m a foundations student at Holberton School Puerto Rico 
 - :computer: Currently learning C programming language
