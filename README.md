@@ -1,15 +1,16 @@
-# Hey! I'm Gabriel Pagán Mateo <div id="badges"> <a href="https://www.linkedin.com/in/gabriel-pagan-232570254/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-## :technologist: About me:
-
-- 🌱 I’m a foundations student at Holberton School Puerto Rico 
-- :computer: Currently learning C programming language
-<div id="header" align="left">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<div id="badges" align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-pagan-232570254/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GabrielPaganMateo&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPaganMateo&langs_count=5&theme=tokyonight)]()
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="100%"/>
+</div>
 
 <!---
 GabrielPaganMateo/GabrielPaganMateo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
