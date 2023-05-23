@@ -3,10 +3,10 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/gabriel-pagan-232570254/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://docs.google.com/document/d/1JApv5H101CgqMXzgE07YhVji-WgGAw-D/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-neongreen?style=for-the-badge&logo=google-docs&logoColor=white" alt="Resume Badge"/>
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=google-docs&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
 
