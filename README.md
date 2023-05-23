@@ -1,5 +1,5 @@
 <div id="badges" align="center">
-  <a href="mailto:gabriel.pagan.mateo@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabriel.pagan.mateo@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/gabriel-pagan-232570254/">
