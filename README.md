@@ -7,9 +7,9 @@
   <a href="https://www.linkedin.com/in/gabriel-pagan-232570254/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://docs.google.com/document/d/12S7eEjFcdpveXVvH3MdMsaFNK2PF5fz_ZXpA6VmsogQ/edit?usp=sharing">
+<!--    <a href="https://docs.google.com/document/d/12S7eEjFcdpveXVvH3MdMsaFNK2PF5fz_ZXpA6VmsogQ/edit?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=google-docs&logoColor=white" alt="Resume Badge"/>
-  </a>
+  </a> -->
 </div>
 
 <div id="header" align="center">
